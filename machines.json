@@ -1,0 +1,536 @@
+{
+  "version": 1,
+  "updatedAt": "2026-07-30",
+  "machines": [
+    {
+      "name": "HEY!エリートサラリーマン鏡",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "Lからくりサーカス",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "Lゴジラ対エヴァンゲリオン",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "Lゴブリンスレイヤー",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "Lゴールデンカムイ",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "Lスマスロ咲-Saki-",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "Lスマスロ鏡",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "Lスーパービンゴネオ",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "Lバイオハザード ヴィレッジ",
+      "type": "slot",
+      "maker": "エンターライズ"
+    },
+    {
+      "name": "LバイオハザードRE:2",
+      "type": "slot",
+      "maker": "エンターライズ"
+    },
+    {
+      "name": "Lバジリスク〜甲賀忍法帖〜絆2",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "Lミリオンゴッド-ラムセスの秘宝-",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "LモンキーターンV",
+      "type": "slot",
+      "maker": "山佐"
+    },
+    {
+      "name": "L主役は銭形3",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "L主役は銭形4",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "L北斗の拳",
+      "type": "slot",
+      "maker": "サミー"
+    },
+    {
+      "name": "L幼女戦記",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "L押忍！番長ZERO",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "L東京喰種",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "L沖ドキ！BLACK",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "L犬夜叉",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "L転生したらスライムだった件",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "L麻雀物語",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "SUPER LINO",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "VERSUS",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "アイムジャグラーEX",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "アステカ-太陽の紋章-",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "アナザーゴッドハーデス-奪われたZEUS ver.-",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "ウルトラミラクルジャグラー",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "クレアの秘宝伝 女神の斉戒",
+      "type": "slot",
+      "maker": "ロデオ"
+    },
+    {
+      "name": "グレートキングハナハナ-30",
+      "type": "slot",
+      "maker": "パイオニア"
+    },
+    {
+      "name": "ゴーゴージャグラー3",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "ジャグラーガールズSS",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "ジャンキージャグラー",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "スマスロ ソードアート・オンライン",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "スマスロRe:ゼロから始める異世界生活",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "スマスロ北斗の拳",
+      "type": "slot",
+      "maker": "サミー"
+    },
+    {
+      "name": "スマスロ戦国乙女",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "スマスロ炎炎ノ消防隊",
+      "type": "slot",
+      "maker": "SANKYO"
+    },
+    {
+      "name": "スマスロ甲鉄城のカバネリ",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "スマスロ聖闘士星矢",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "スマスロ革命機ヴァルヴレイヴ",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "スーパーミラクルジャグラー",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "ディスクアップ2",
+      "type": "slot",
+      "maker": "サミー"
+    },
+    {
+      "name": "ドリームハナハナ-30",
+      "type": "slot",
+      "maker": "パイオニア"
+    },
+    {
+      "name": "ニューキングハナハナ-30",
+      "type": "slot",
+      "maker": "パイオニア"
+    },
+    {
+      "name": "ハッピージャグラーVIII",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "ハナビ",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "バジリスク〜甲賀忍法帖〜絆2 天膳",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "パチスロ とある魔術の禁書目録",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "パチスロRe:ゼロから始める異世界生活",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "パチスロまどか☆マギカ",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "パチスロモンキーターン4",
+      "type": "slot",
+      "maker": "山佐"
+    },
+    {
+      "name": "パチスロ北斗の拳 天昇",
+      "type": "slot",
+      "maker": "サミー"
+    },
+    {
+      "name": "パチスロ北斗の拳 宿命",
+      "type": "slot",
+      "maker": "サミー"
+    },
+    {
+      "name": "パチスロ聖闘士星矢 海皇覚醒",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "パチスロ花の慶次〜雲のかなたに",
+      "type": "slot",
+      "maker": "ニューギン"
+    },
+    {
+      "name": "パチスロ鬼武者3 時空天翔",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "ファンキージャグラー2",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "マイジャグラーV",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "ミスタージャグラー",
+      "type": "slot",
+      "maker": "北電子"
+    },
+    {
+      "name": "ミリオンゴッド-神々の凱旋-",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "南国育ち-30",
+      "type": "slot",
+      "maker": ""
+    },
+    {
+      "name": "吉宗",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "押忍！サラリーマン番長2",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "押忍！番長3",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "政宗 戦极",
+      "type": "slot",
+      "maker": "大都技研"
+    },
+    {
+      "name": "沖ドキ！-30",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "沖ドキ！DUO-30",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "沖ドキ！GOLD-30",
+      "type": "slot",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "P Re:ゼロから始める異世界生活 鬼がかりver.",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "Pとある魔術の禁書目録",
+      "type": "pachinko",
+      "maker": "京楽"
+    },
+    {
+      "name": "Pぱちんこ大工の源さん",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "Pぱちんこ必殺仕事人",
+      "type": "pachinko",
+      "maker": "京楽"
+    },
+    {
+      "name": "Pぱちんこ黄門ちゃま",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "Pひぐらしのなく頃に",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "Pルパン三世",
+      "type": "pachinko",
+      "maker": "平和"
+    },
+    {
+      "name": "P仮面ライダー 轟音",
+      "type": "pachinko",
+      "maker": "SANKYO"
+    },
+    {
+      "name": "P北斗の拳 暴凶星",
+      "type": "pachinko",
+      "maker": "サミー"
+    },
+    {
+      "name": "P地獄少女",
+      "type": "pachinko",
+      "maker": "藤商事"
+    },
+    {
+      "name": "P大海物語4",
+      "type": "pachinko",
+      "maker": "三洋"
+    },
+    {
+      "name": "P大海物語4スペシャル",
+      "type": "pachinko",
+      "maker": "三洋"
+    },
+    {
+      "name": "P大海物語5",
+      "type": "pachinko",
+      "maker": "三洋"
+    },
+    {
+      "name": "P戦姫絶唱シンフォギア",
+      "type": "pachinko",
+      "maker": "SANKYO"
+    },
+    {
+      "name": "P牙狼 冴島鋼牙",
+      "type": "pachinko",
+      "maker": "SANKYO"
+    },
+    {
+      "name": "P真・北斗無双",
+      "type": "pachinko",
+      "maker": "サミー"
+    },
+    {
+      "name": "P花の慶次〜蓮",
+      "type": "pachinko",
+      "maker": "ニューギン"
+    },
+    {
+      "name": "P蒼穹のファフナー3",
+      "type": "pachinko",
+      "maker": "ミズホ"
+    },
+    {
+      "name": "P頭文字D",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "e ヱヴァンゲリヲン〜未来への咆哮〜",
+      "type": "pachinko",
+      "maker": "ビスティ"
+    },
+    {
+      "name": "eからくりサーカス",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "eエヴァンゲリオン15",
+      "type": "pachinko",
+      "maker": "ビスティ"
+    },
+    {
+      "name": "eキャッツ・アイ",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "eキン肉マン",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "eスーパー海物語 IN 沖縄5",
+      "type": "pachinko",
+      "maker": "三洋"
+    },
+    {
+      "name": "eバジリスク〜甲賀忍法帖〜絆2",
+      "type": "pachinko",
+      "maker": "ユニバーサル"
+    },
+    {
+      "name": "eフィーバー戦姫絶唱シンフォギア",
+      "type": "pachinko",
+      "maker": "SANKYO"
+    },
+    {
+      "name": "eモンスターハンターライズ",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "eルパン三世 ONE COLLECTION",
+      "type": "pachinko",
+      "maker": "平和"
+    },
+    {
+      "name": "eヱヴァンゲリヲン〜シト、新生〜",
+      "type": "pachinko",
+      "maker": "ビスティ"
+    },
+    {
+      "name": "e七つの大罪",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "e北斗の拳9",
+      "type": "pachinko",
+      "maker": "サミー"
+    },
+    {
+      "name": "e天元突破グレンラガン",
+      "type": "pachinko",
+      "maker": ""
+    },
+    {
+      "name": "e新世紀エヴァンゲリオン16",
+      "type": "pachinko",
+      "maker": "ビスティ"
+    },
+    {
+      "name": "e機動戦士ガンダムユニコーン",
+      "type": "pachinko",
+      "maker": "ビスティ"
+    },
+    {
+      "name": "ぱちんこAKB48",
+      "type": "pachinko",
+      "maker": "京楽"
+    }
+  ]
+}
